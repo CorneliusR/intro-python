@@ -1,2 +1,2 @@
 __author__ = 'rowena'
-print("hello world")
+print("hello ghana")
